@@ -1,0 +1,14 @@
+{
+  "name": "mbourou-boulangerie",
+  "version": "1.0.0",
+  "description": "Mbourou — Gestion de boulangerie (FR/AR), 100 % hors ligne : Node.js + SQLite intégré, sans dépendance",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

@@ -1,0 +1,56 @@
+﻿1
+00:00:00,400 --> 00:00:03,300
+IT-RIM présente…
+
+2
+00:00:03,800 --> 00:00:07,800
+Mbourou, la gestion de votre boulangerie, sans Internet.
+
+3
+00:00:08,400 --> 00:00:13,800
+La farine augmente, les charges montent, et le vrai coût du pain échappe.
+
+4
+00:00:14,400 --> 00:00:20,300
+Mbourou calcule le prix de revient, suit le stock et contrôle la caisse.
+
+5
+00:00:20,800 --> 00:00:24,350
+Le tableau de bord : ventes, bénéfice, alertes.
+
+6
+00:00:24,800 --> 00:00:28,350
+Au comptoir, touchez les produits, choisissez le paiement, validez.
+
+7
+00:00:28,800 --> 00:00:32,350
+La recette donne le coût et le prix conseillé.
+
+8
+00:00:32,800 --> 00:00:36,350
+Chaque fournée déduit les matières premières du stock.
+
+9
+00:00:36,800 --> 00:00:40,350
+Chaque achat met à jour le prix moyen.
+
+10
+00:00:40,800 --> 00:00:44,350
+Le soir, comptez la caisse : l'écart s'affiche aussitôt.
+
+11
+00:00:44,800 --> 00:00:48,350
+L'inventaire chiffre les écarts et les pertes.
+
+12
+00:00:48,800 --> 00:00:52,350
+Les rapports révèlent votre vrai bénéfice.
+
+13
+00:00:52,800 --> 00:00:55,800
+De l'achat à la vente, tout est chiffré.
+
+14
+00:00:56,300 --> 00:00:59,600
+Mbourou, par IT-RIM. Demandez votre démonstration sur WhatsApp.
+
